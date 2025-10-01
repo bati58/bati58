@@ -1,4 +1,12 @@
-# Hi, I'm Bati Jano 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500" alt="Hi There" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<h1 align="center" style="color: #2ECC71;">Hi there, I'm Bati Jano a Full-stack Developer</h1>
 
 Welcome to my GitHub profile!
 
