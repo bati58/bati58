@@ -1,13 +1,5 @@
 # Hi, I'm Bati 👋  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;JavaScript+Lover;Creative+Problem+Solver)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500" alt="Hi There" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines= Hey, I'm + Bati Jano; Full-stack+Engineer;JavaScript+Lover;Creative+Problem+Solver)
 
 <h1 align="center" style="color: #2ECC71;">Hi there, I'm Bati Jano a Full-stack Developer</h1>
 
