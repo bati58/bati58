@@ -1,8 +1,6 @@
 
-# Hi, I'm Bati 👋  
+# Hi, I'm Bati 👋, Welcome to my GitHub profile!  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Bati+Jano;Full-stack+Developer;JavaScript+Lover;Creative+Problem+Solver)
-
-Welcome to my GitHub profile!
 
 ---
 
