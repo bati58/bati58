@@ -7,7 +7,7 @@
 - 🎓 **Computer Science and Engineering student at ASTU**
 - 💻 Passionate Website Developer
 - 🌐 Currently focused on **Full Stack Development**
-- 📫 Reach me at: [batijano58@gmail.com](mailto:batijano58@gmail.com)
+- 📫 Reach me at: [batijano58@gmail.com](mailto:batidev01@gmail.com)
 - 📄 [View my Resume](https://flowcv.com/resume/6orquavkwljr)
 
 ---
