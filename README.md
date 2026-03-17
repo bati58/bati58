@@ -5,8 +5,9 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science and Engineering student at ASTU**
-- 💻 Passionate Website Developer
-- 🌐 Currently focused on **Full Stack Development**
+- 🌱 Beginner Web Developer
+- 💻 Learning Full-Stack Development
+- 🤖 AI Enthusiast
 - 📫 Reach me at: [batidev01@gmail.com](mailto:batidev01@gmail.com)
 - 📄 [View my Resume](https://flowcv.com/resume/6orquavkwljr)
 
