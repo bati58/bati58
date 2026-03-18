@@ -5,7 +5,6 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science and Engineering student at ASTU**
-- 🌱 Beginner Web Developer
 - 💻 Learning Full-Stack Development
 - 🤖 AI Enthusiast
 - 📫 Reach me at: [batidev01@gmail.com](mailto:batidev01@gmail.com)
