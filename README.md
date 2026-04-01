@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+There!,+I'm+Bati+Jano;Aspiring+Fullstack+development;UI/UX+Design+Enthusiast;AI+Enthusiastic)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+There!,+I'm+Bati+Jano;Aspiring+Fullstack+development;UI/UX+Design+Enthusiast;Frontend+Focused)
 
 ---
 
