@@ -7,7 +7,7 @@
 - 🎓 **Computer Science and Engineering student at ASTU**
 - 💻 Learning Full-Stack Development
 - 💻 Currently Frontend focused 
-- 📱  Aspiring UI/UX Designer
+- 📱  Aspiring UI/UX Design
 - 🤖 AI Enthusiast
 - 📫 Reach me at: [batidev01@gmail.com](mailto:batidev01@gmail.com)
 - 📄 [View my Resume](https://flowcv.com/resume/6orquavkwljr)
