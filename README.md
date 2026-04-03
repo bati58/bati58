@@ -11,6 +11,7 @@
 - 🤖 AI Enthusiast
 - 📫 Reach me at: [batidev01@gmail.com](mailto:batidev01@gmail.com)
 - 📄 [View my Resume](https://flowcv.com/resume/6orquavkwljr)
+- 🤝[Linkedin](https://www.linkedin.com/in/bati-jano/)
 
 ---
 
