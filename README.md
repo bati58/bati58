@@ -47,7 +47,7 @@
 ## 🚀 About Me  
 
 I am a passionate developer focused on building modern, responsive, and scalable web applications.  
-I enjoy solving problems, learning new technologies, and collaborating on impactful projects.
 
----
+
+
 
