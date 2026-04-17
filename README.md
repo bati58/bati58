@@ -14,6 +14,13 @@
 - 🤝 [LinkedIn](https://www.linkedin.com/in/bati-jano/)
 
 ---
+## 🚀 About Me  
+
+I am a Computer Science and Engineering student at ASTU with a passion for building modern, responsive, and scalable web applications. I focus on frontend development (React, HTML, CSS, JavaScript) while expanding backend knowledge with Node.js, Express, and MongoDB. I care deeply about UI/UX, accessibility, and performance. I'm actively learning AI/ML concepts to integrate intelligent features into user interfaces and enjoy contributing to open-source projects.
+
+If you'd like to collaborate or discuss opportunities, reach out via email or LinkedIn.
+
+----
 
 ## 🛠️ Skills & Expertise
 
@@ -62,9 +69,8 @@
 
 ---
 
-## 🚀 About Me  
 
-I am a passionate developer focused on building modern, responsive, and scalable web applications.  
+
 
 
 
