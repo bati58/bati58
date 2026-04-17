@@ -45,17 +45,11 @@
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub readme stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=radical" alt="bati58's top languages" />
-</p>
-
-<!-- Streak and trophies -->
+<!-- GitHub readme stats and  Streak- -->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bati58&theme=radical" alt="github streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bati58&theme=onedark&row=1&column=7" alt="github trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=radical" alt="bati58's top languages" />
 </p>
-
 
 ---
 
