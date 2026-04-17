@@ -51,20 +51,3 @@ I enjoy solving problems, learning new technologies, and collaborating on impact
 
 ---
 
-## 📊 GitHub Stats  
-
-![Bati's GitHub stats](https://github-readme-stats.vercel.app/api?username=bati58&show_icons=true&theme=radical)
-
----
-
-## ✨ Let's Connect!  
-
-Feel free to explore my repositories, check out my projects, or reach out for collaboration!
-
-- 💨 [LeetCode](https://leetcode.com/u/22jCCRdWaR)  
-- 💫 [Codeforces](https://codeforces.com/profile/batijano58)  
-- 💦 [GitHub](https://github.com/bati58)  
-
----
-
-⭐ *Feel free to explore my repositories and connect with me for collaboration opportunities!*
