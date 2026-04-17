@@ -47,7 +47,6 @@
 
 <!-- GitHub readme stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bati58&show_icons=true&theme=radical" alt="bati58's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=radical" alt="bati58's top languages" />
 </p>
 
