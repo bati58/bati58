@@ -69,14 +69,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-- Add a short list of 3–5 repos you want to showcase (you can edit these later to link specific repos):
-  - [Project A](https://github.com/bati58/) - Short description
-  - [Project B](https://github.com/bati58/) - Short description
-  - [Project C](https://github.com/bati58/) - Short description
-
----
 
 ## 📫 Contact & Connect
 
