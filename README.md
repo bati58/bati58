@@ -64,8 +64,8 @@ If you'd like to collaborate or discuss opportunities, reach out via email or Li
 
 ## 📫 Contact & Connect
 
-- Email: [batidev01@gmail.com](mailto:batidev01@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/bati-jano/
+-📧 [Email](mailto:batidev01@gmail.com)
+-🔗 [LinkedIn](https://www.linkedin.com/in/bati-jano/)
 
 ---
 
