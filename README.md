@@ -54,7 +54,6 @@ If you'd like to collaborate or discuss opportunities, reach out via email or Li
 
 <!-- GitHub readme stats and  Streak- -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bati58&theme=radical" alt="github streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=radical" alt="bati58's top languages" />
 </p>
 
