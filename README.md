@@ -9,7 +9,7 @@
 - ⚛️ Frontend focused (React, HTML, CSS, JavaScript)
 - 🎨 Aspiring UI/UX Designer
 - 🤖 AI Enthusiast
-- 📫 Reach me at: [Email](mailto:batidev01@gmail.com)
+- 📫 Reach me at: [batidev01@gmail.com](mailto:batidev01@gmail.com)
 - 📄 [Resume](https://flowcv.com/resume/6orquavkwljr)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/bati-jano/)
 
