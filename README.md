@@ -1,76 +1,145 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+There!,+I'm+Bati+Jano;Aspiring+Fullstack+development;UI/UX+Design+Enthusiast;Frontend+Focused)
+# Hey there! 👋 I'm Bati Jano Beshada
+
+<h3 align="center">
+  Computer Science & Engineering Student | Software Developer | UI/UX Designer
+</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Practical+Software+Solutions;UI%2FUX+Design+Enthusiast;Exploring+AI%2FML+%26+Data+Science;Always+Learning%2C+Building+%26+Growing" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science and Engineering student at ASTU**
-- 💻 Learning Full-Stack Development
-- ⚛️ Frontend focused (React, HTML, CSS, JavaScript)
-- 🎨 Aspiring UI/UX Designer
-- 🤖 AI Enthusiast
-- 📫 Reach me at: [Email](mailto:batidev01@gmail.com)
-- 📄 [Resume](https://flowcv.com/resume/6orquavkwljr)
-- 🤝 [LinkedIn](https://www.linkedin.com/in/bati-jano/)
+I'm a Computer Science and Engineering student at **Adama Science and Technology University (ASTU)**, passionate about software engineering, building practical applications, and solving real-world problems through technology.
+
+My primary focus is full-stack web development, where I work with modern frontend and backend technologies to build functional, responsive, and user-friendly applications.
+
+Beyond software development, I'm interested in UI/UX design and exploring emerging fields such as Artificial Intelligence, Machine Learning, and Data Science.
+
+- 🎓 Computer Science & Engineering Student @ ASTU
+- 💻 Full-Stack Web Developer
+- 🎨 UI/UX Designer
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Learning Data Science and data-driven technologies
+- 🌱 Continuously improving my technical and problem-solving skills
+- 🤝 Interested in collaboration, open-source projects, and new opportunities
+
+**My philosophy:** Learn continuously, build consistently, and turn ideas into practical solutions.
 
 ---
-## 🚀 About Me  
 
-I am a Computer Science and Engineering student at ASTU with a passion for building modern, responsive, and scalable web applications. I focus on frontend development (React, HTML, CSS, JavaScript) while expanding backend knowledge with Node.js, Express, and MongoDB. I care deeply about UI/UX, accessibility, and performance. I'm actively learning AI/ML concepts to integrate intelligent features into user interfaces and enjoy contributing to open-source projects.
-
-If you'd like to collaborate or discuss opportunities, reach out via email or LinkedIn.
-
-----
-
-## 🛠️ Skills & Expertise
+## 🛠️ Technical Skills & Technologies
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🧰 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🗄️ Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-## 📊 GitHub Stats & Activity
+### 🎨 UI/UX Design
 
-<!-- GitHub readme stats and  Streak- -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=radical" alt="bati58's top languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
+## 💼 Featured Projects
 
+Here are some of the projects I've worked on as part of my software development and design journey.
 
-## 📫 Contact & Connect
-
--📧 [Email](mailto:batidev01@gmail.com)
--🔗 [LinkedIn](https://www.linkedin.com/in/bati-jano/)
+| Project | Category |
+|---|---|
+| Pharmacy Management System | Full-Stack Development |
+| Stock Management System | Full-Stack Development |
+| Brana Leather Shop | Full-Stack Development |
+| E-commerce Website | Full-Stack Development |
+| Personal Finance Tracker | Web Development |
+| YouTube Clone | Frontend Development |
+| Fenet Cafe Menu | Web Development |
+| Selam Beauty Salon | UI/UX Design |
+| Smile Speciality Dental Clinic | UI/UX Design |
 
 ---
 
+## 📈 GitHub Statistics
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bati58&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bati58&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
 
+## 🎯 Currently Exploring
 
+- Advanced Full-Stack Development
+- Software Engineering Principles & System Design
+- Artificial Intelligence & Machine Learning
+- Data Science and Data Analysis
+- Modern UI/UX Design
+- Open-Source Collaboration
 
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, designers, and technology enthusiasts to exchange ideas, collaborate on projects, and learn from one another.
+
+<p align="center">
+  <a href="mailto:batidev01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bati-jano/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bati58">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Adama, Oromia, Ethiopia
+</p>
+
+---
+
+<p align="center">
+  <i>"Great software is built through curiosity, consistency, and continuous learning."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+</p>
