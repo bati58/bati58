@@ -72,23 +72,6 @@ Beyond software development, I'm interested in UI/UX design and exploring emergi
 
 ---
 
-## 💼 Featured Projects
-
-Here are some of the projects I've worked on as part of my software development and design journey.
-
-| Project | Category |
-|---|---|
-| Pharmacy Management System | Full-Stack Development |
-| Stock Management System | Full-Stack Development |
-| Brana Leather Shop | Full-Stack Development |
-| E-commerce Website | Full-Stack Development |
-| Personal Finance Tracker | Web Development |
-| YouTube Clone | Frontend Development |
-| Fenet Cafe Menu | Web Development |
-| Selam Beauty Salon | UI/UX Design |
-| Smile Speciality Dental Clinic | UI/UX Design |
-
----
 
 ## 📈 GitHub Statistics
 
