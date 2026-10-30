@@ -73,28 +73,19 @@ Beyond software development, I'm interested in UI/UX design and exploring emergi
 ---
 
 
-#
-## 📊 GitHub Statistics & Profile Rank
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bati58&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Statistics and Rank"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bati58&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bati58&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bati58&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=bati58&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bati58&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
 
 
 ## 🎯 Currently Exploring
